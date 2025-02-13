@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment>
+	<deployment name="hippo-cms.ear" runtime-name="hippo-cms.ear">
+		<content sha1="66e85961456151"/>
+	</deployment>
+	<deployment name="sia-4.0.12-UAT-bdfasbda-SNAPSHOT.war" runtime-name="sia-4.0.12-UAT-bdfasbda-SNAPSHOT.war">
+		<content sha1="66e85961456151"/>
+	</deployment>
+	<deployment name="login-server-0.1.16-UAT-adasfdsfsfs-SNAPSHOT.war" runtime-name="login-server-0.1.16-UAT-adasfdsfsfs-SNAPSHOT.war">
+		<content sha1="fdgfdhgfjhg645654"/>
+	</deployment>
+</deployment>	
